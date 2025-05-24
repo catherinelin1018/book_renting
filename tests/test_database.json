@@ -1,0 +1,16 @@
+{
+    "Items": {
+        "SWWLLN": {
+            "name": "The Door in the Forest",
+            "author": "Roderick Townley",
+            "type": "Fantasy",
+            "age_rating": 9
+        },
+        "NPQSYW": {
+            "name": "A Constant Love",
+            "author": "Tracie Peterson",
+            "type": "Historical Romance",
+            "age_rating": 18
+        }
+    }
+}

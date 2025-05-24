@@ -1,0 +1,28 @@
+{
+    "Items": {
+        "JEUDIS": {
+            "name": "The seamstress of Acadie",
+            "author": "Laura Frantz",
+            "type": "Historical Romance",
+            "age_rating": 18
+        },
+        "CJDUIW": {
+            "name": "Pillage",
+            "author": "Obert Skye",
+            "type": "Fantasy",
+            "age_rating": 12
+        },
+        "EOIODN": {
+            "name": "In Defense of Food",
+            "author": "Michael Pollan",
+            "type": "Non-Fiction",
+            "age_rating": 16
+        },
+        "QUIVHI": {
+            "name": "Calendar Mysteries: May Magic",
+            "author": "Ron Roy",
+            "type": "Mystery",
+            "age_rating": 9
+        }
+    }
+}
